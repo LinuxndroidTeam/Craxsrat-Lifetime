@@ -190,3 +190,7 @@ This Course is built for both Educational and Internal use ONLY.</b>
 [![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
 
 [![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.com)
+
+
+<b>Tags ignore</b>
+#craxsrat,#craxsrat lifetime,#advance android rat,#new android rat,#2023 best android rat,#android rat github,#stable android rat,#cypherrat advance version,#android rat 2023,#free android rat,#2023 free android rat,#powerfull android rat github,#best free android rat github,
