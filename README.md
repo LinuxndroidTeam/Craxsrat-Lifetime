@@ -26,6 +26,15 @@
 - Create A fake apk using and website
 - custom notification
 
+## Inside Videos In Course
+
+- How to setup and Use CraxsRAT (Out-Of-Network)
+- How to Create Windows RDP in Digital Ocean (Hacking)
+- How CraxsRAT Bypass Avast & Play Protect 2023
+- How Manual Bind CraxsRAT Any Other APK.
+- How to Bypass Lower SDK 22 Google New Issue.(Auto Permission)
+
+
 ## CraxsRAT All Features
 
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
