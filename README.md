@@ -26,7 +26,7 @@
 - Create A fake apk using and website
 - custom notification
 
-[![Video For Bypass Avast](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=_rENtFeWW0g)
+[![Video For Bypass Avast](https://img.youtube.com/vi/_rENtFeWW0g/0.jpg)](https://www.youtube.com/watch?v=_rENtFeWW0g)
 
 ## Inside Videos In Course
 
