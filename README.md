@@ -26,11 +26,8 @@
 - Create A fake apk using and website
 - custom notification
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/_rENtFeWW0g" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Video For Bypass Avast](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=_rENtFeWW0g)
+
 ## Inside Videos In Course
 
 - How to setup and Use CraxsRAT (Out-Of-Network)
